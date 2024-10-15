@@ -1,0 +1,64 @@
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\mysql.exe
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\mysql.deps.json
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\mysql.runtimeconfig.json
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\mysql.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\mysql.pdb
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lacay\source\repos\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.AssemblyReference.cache
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.Form1.resources
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.GenerateResource.cache
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.AssemblyInfoInputs.cache
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.AssemblyInfo.vb
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.CoreCompileInputs.cache
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.Up2Date
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.dll
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\refint\mysql.dll
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.pdb
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\mysql.genruntimeconfig.cache
+C:\Users\lacay\source\repos\mysql\mysql\obj\Debug\net8.0-windows\ref\mysql.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\mysql.exe
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\mysql.deps.json
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\mysql.runtimeconfig.json
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\mysql.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\mysql.pdb
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.AssemblyReference.cache
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.Form1.resources
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.GenerateResource.cache
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.AssemblyInfoInputs.cache
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.AssemblyInfo.vb
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.CoreCompileInputs.cache
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.vbproj.Up2Date
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\refint\mysql.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.pdb
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.genruntimeconfig.cache
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\ref\mysql.dll
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.FormLogin.resources
+D:\Kevin\Tareas 2024\Tareas Mysql\Sistema gestores de base de datos 2\Proyecto final\mysql\mysql\obj\Debug\net8.0-windows\mysql.FormRegister.resources
